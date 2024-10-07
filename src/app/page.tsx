@@ -1,7 +1,7 @@
-import { Header } from "@/sections/Header";
-import { Hero } from "@/sections/Hero";
-import { LogoTicker } from "@/sections/LogoTicker";
-import { ProductShowcase } from "@/sections/ProductShowcase";
+import { Header } from "@/components/sections/Header";
+import { Hero } from "@/components/sections/Hero";
+import { LogoTicker } from "@/components/sections/LogoTicker";
+import { ProductShowcase } from "@/components/sections/ProductShowcase";
 
 export default function Home() {
   return (
