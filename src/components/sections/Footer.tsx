@@ -32,7 +32,7 @@ export const Footer = () => {
           <SocialYoutube />
         </div>
 
-        <p className="mt-6">&copy; 2024 Motion, Inc. All rights reserved.</p>
+        <p className="mt-6">&copy; 2024 Motion, Inc. All rights reserved. Created by <a href="https://sorenblank.com" className="underline underline-offset-4">Soren</a>.</p>
       </div>
     </footer>
   );
