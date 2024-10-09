@@ -10,7 +10,7 @@ export const ProductShowcase = () => {
       <div className="container">
         <div className="section-heading">
           <div className="flex justify-center">
-            <div className="text-sm inline-flex border border-[#222]/10 px-3 py-1 rounded-lg tracking-tight">
+            <div className="tag">
               Boost your producvitiy
             </div>
           </div>
