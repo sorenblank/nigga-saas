@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     images: [
       {
-        url: "https://niggasaas.app/og-image.png",
+        url: "https://niggasaas.vercel.app/og-image.png",
         alt: "niggasaas"
       }
     ]
