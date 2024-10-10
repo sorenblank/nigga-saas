@@ -15,7 +15,7 @@ A modern, responsive SaaS landing page built with Next.js, Tailwind CSS, and Fra
 
 ## 🚀 Live Demo
 
-Check out the live demo of the project: [Light SaaS Landing Page Demo](https://your-demo-url-here.com)
+Check out the live demo of the project: [Nigga SaaS Demo](https://niggasaas.vercel.app/)
 
 ## 🛠 Tech Stack
 
@@ -37,13 +37,13 @@ Check out the live demo of the project: [Light SaaS Landing Page Demo](https://y
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/light-saas-landing-page.git
+   git clone https://github.com/sorenblank/nigga-saas.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd light-saas-landing-page
+   cd nigga-saas
    ```
 
 3. Install dependencies:
